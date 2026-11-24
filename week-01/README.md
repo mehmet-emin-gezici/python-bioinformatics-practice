@@ -10,4 +10,4 @@ with DNA sequences, written using strings and functions only.
 | `reverse_complement(seq)` | Reverses the sequence and swaps A with T and C with G | REVC |
 | `gc_content(seq)` | Returns the percentage of bases that are G or C | GC (core calculation) |
 
-Status: in progress
+Status: complete
